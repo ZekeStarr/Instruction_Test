@@ -7,3 +7,5 @@ Log on to @lab.VirtualMachine(20347B-LON-CL1).SelectLink by pressing @lab.CtrlAl
 **Username**: +++@lab.VirtualMachine(20347B-LON-CL1).Username+++
     
 **Password**: +++@lab.VirtualMachine(20347B-LON-CL1).Password+++
+
+Test edit to markdown file.
