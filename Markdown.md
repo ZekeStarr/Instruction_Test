@@ -1,3 +1,5 @@
+Hello
+
 ## Before you start
 
 ### Sign in to the lab virtual machine
