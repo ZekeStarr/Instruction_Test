@@ -21,7 +21,7 @@
       "value": null
     },
     "location": {
-      "value": "[resourceGroup().location]"
+      "value": "eastus"
     },
     "virtualMachineName": {
       "value": "az140-dc-vm11"
