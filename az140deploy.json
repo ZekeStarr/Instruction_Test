@@ -32,7 +32,7 @@
             "metadata": {
                 "description": "The location of resources, such as templates and DSC modules, that the template depends on"
             },
-            "defaultValue": "[deployment().properties.templateLink.uri]"
+            "defaultValue": "https://raw.githubusercontent.com/az140mp/azure-quickstart-templates/master/application-workloads/active-directory/active-directory-new-domain/"
         },
         "_artifactsLocationSasToken": {
             "type": "securestring",
